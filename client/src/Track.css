@@ -1,0 +1,128 @@
+/* Track.css */
+
+.address {
+    margin: 10px;
+  }
+  
+  .table {
+    margin: 10px;
+  }
+  
+  .table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+    color: black;
+  }
+  
+  .table input {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-right: 10px;
+  }
+  
+  .table button {
+    padding: 6px 12px;
+  }
+  
+  /* Additional styles to customize the appearance */
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .m-2 {
+    margin: 0.5rem;
+  }
+  
+  .m-3 {
+    margin: 1rem;
+  }
+  
+  .form-control-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+  }
+  
+  .table-bordered {
+    border: 1px solid #dee2e6;
+  }
+  
+  .table-sm th,
+  .table-sm td {
+    padding: 0.3rem;
+  }
+  
+  h5 {
+    margin: 10px;
+    font-size: 1.2rem;
+  }
+  
+  /* Track.css */
+
+.modern-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modern-input {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    width: 250px;
+    outline: none;
+  }
+  
+  .modern-button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .modern-button:hover {
+    background-color: #45a049;
+  }
+  
+  .modern-button:active {
+    background-color: #3e8e41;
+  }
+  /* Track.css */
+
+.modern-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .modern-heading {
+    margin-bottom: 10px;
+  }
+  
+  /* Rest of the styles remain the same */
+  

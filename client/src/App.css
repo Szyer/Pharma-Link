@@ -1,0 +1,50 @@
+
+.bg{
+    background-color: hsl(60, 2%, 29%);
+    color: white;
+    padding-top: 20px;
+  }
+.note{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.step1{
+  padding-bottom: 20px;
+}
+.step2{
+   
+    padding-bottom: 5px;
+  }
+.step3{
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.address{
+    padding: 20px;
+ 
+}
+
+.table{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+hr{
+    position: relative;
+    top: 20px;
+    border: none;   
+    height: 12px;
+    background: black;
+}
+.wait{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.track{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+/* AssignRoles.css */
+
