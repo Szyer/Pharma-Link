@@ -13,5 +13,5 @@ yarn
 yarn start
 ```
 
-The site is now running at `http://localhost:3000`!
+Site is running on `http://localhost:3000`!
 
